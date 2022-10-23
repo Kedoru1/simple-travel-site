@@ -2,3 +2,6 @@ img{
     height: 300px;
     width: 300px;
 }
+table, td, tr, th{
+    border: 1px solid black;
+}
